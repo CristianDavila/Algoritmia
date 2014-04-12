@@ -1,0 +1,141 @@
+-- Inicio del Script --
+
+--Compilacion completada correctamente--
+--Creacion de carpeta destino de tablas completada--
+
+ 
+Inicio de la ejecucion del dataset 1
+Error relativo de la estimacion menor del 1%:  19
+Error relativo de la estimacion entre el 1% y el 5%:  47
+Error relativo de la estimacion entre el 5% y el 10%:  24
+Error relativo de la estimacion entre el 10% y el 15%  10
+Error relativo de la estimacion entre el 15% y el 25%  0
+Error relativo de la estimacion entre el 25% y el 40%  0
+Error relativo de la estimacion entre el 40% y el 55%  0
+Error relativo de la estimacion entre el 55% y el 70%  0
+Error relativo de la estimacion entre el 70% y el 85%  0
+Error relativo de la estimacion entre el 85% y el 100%  0
+ 
+Dataset 1  ejecutado correctamente
+
+ 
+Inicio de la ejecucion del dataset 2
+Error relativo de la estimacion menor del 1%:  13
+Error relativo de la estimacion entre el 1% y el 5%:  44
+Error relativo de la estimacion entre el 5% y el 10%:  37
+Error relativo de la estimacion entre el 10% y el 15%  5
+Error relativo de la estimacion entre el 15% y el 25%  1
+Error relativo de la estimacion entre el 25% y el 40%  0
+Error relativo de la estimacion entre el 40% y el 55%  0
+Error relativo de la estimacion entre el 55% y el 70%  0
+Error relativo de la estimacion entre el 70% y el 85%  0
+Error relativo de la estimacion entre el 85% y el 100%  0
+ 
+Dataset 2  ejecutado correctamente
+
+ 
+Inicio de la ejecucion del dataset 3
+Error relativo de la estimacion menor del 1%:  13
+Error relativo de la estimacion entre el 1% y el 5%:  39
+Error relativo de la estimacion entre el 5% y el 10%:  34
+Error relativo de la estimacion entre el 10% y el 15%  13
+Error relativo de la estimacion entre el 15% y el 25%  1
+Error relativo de la estimacion entre el 25% y el 40%  0
+Error relativo de la estimacion entre el 40% y el 55%  0
+Error relativo de la estimacion entre el 55% y el 70%  0
+Error relativo de la estimacion entre el 70% y el 85%  0
+Error relativo de la estimacion entre el 85% y el 100%  0
+ 
+Dataset 3  ejecutado correctamente
+
+ 
+Inicio de la ejecucion del dataset 4
+Error relativo de la estimacion menor del 1%:  9
+Error relativo de la estimacion entre el 1% y el 5%:  49
+Error relativo de la estimacion entre el 5% y el 10%:  29
+Error relativo de la estimacion entre el 10% y el 15%  10
+Error relativo de la estimacion entre el 15% y el 25%  3
+Error relativo de la estimacion entre el 25% y el 40%  0
+Error relativo de la estimacion entre el 40% y el 55%  0
+Error relativo de la estimacion entre el 55% y el 70%  0
+Error relativo de la estimacion entre el 70% y el 85%  0
+Error relativo de la estimacion entre el 85% y el 100%  0
+ 
+Dataset 4  ejecutado correctamente
+
+ 
+Inicio de la ejecucion del dataset 5
+Error relativo de la estimacion menor del 1%:  13
+Error relativo de la estimacion entre el 1% y el 5%:  39
+Error relativo de la estimacion entre el 5% y el 10%:  29
+Error relativo de la estimacion entre el 10% y el 15%  16
+Error relativo de la estimacion entre el 15% y el 25%  3
+Error relativo de la estimacion entre el 25% y el 40%  0
+Error relativo de la estimacion entre el 40% y el 55%  0
+Error relativo de la estimacion entre el 55% y el 70%  0
+Error relativo de la estimacion entre el 70% y el 85%  0
+Error relativo de la estimacion entre el 85% y el 100%  0
+ 
+Dataset 5  ejecutado correctamente
+
+ 
+Inicio de la ejecucion del dataset 6
+Error relativo de la estimacion menor del 1%:  15
+Error relativo de la estimacion entre el 1% y el 5%:  36
+Error relativo de la estimacion entre el 5% y el 10%:  39
+Error relativo de la estimacion entre el 10% y el 15%  10
+Error relativo de la estimacion entre el 15% y el 25%  0
+Error relativo de la estimacion entre el 25% y el 40%  0
+Error relativo de la estimacion entre el 40% y el 55%  0
+Error relativo de la estimacion entre el 55% y el 70%  0
+Error relativo de la estimacion entre el 70% y el 85%  0
+Error relativo de la estimacion entre el 85% y el 100%  0
+ 
+Dataset 6  ejecutado correctamente
+
+ 
+Inicio de la ejecucion del dataset 7
+Error relativo de la estimacion menor del 1%:  20
+Error relativo de la estimacion entre el 1% y el 5%:  37
+Error relativo de la estimacion entre el 5% y el 10%:  30
+Error relativo de la estimacion entre el 10% y el 15%  11
+Error relativo de la estimacion entre el 15% y el 25%  2
+Error relativo de la estimacion entre el 25% y el 40%  0
+Error relativo de la estimacion entre el 40% y el 55%  0
+Error relativo de la estimacion entre el 55% y el 70%  0
+Error relativo de la estimacion entre el 70% y el 85%  0
+Error relativo de la estimacion entre el 85% y el 100%  0
+ 
+Dataset 7  ejecutado correctamente
+
+ 
+Inicio de la ejecucion del dataset 8
+Error relativo de la estimacion menor del 1%:  8
+Error relativo de la estimacion entre el 1% y el 5%:  41
+Error relativo de la estimacion entre el 5% y el 10%:  36
+Error relativo de la estimacion entre el 10% y el 15%  13
+Error relativo de la estimacion entre el 15% y el 25%  2
+Error relativo de la estimacion entre el 25% y el 40%  0
+Error relativo de la estimacion entre el 40% y el 55%  0
+Error relativo de la estimacion entre el 55% y el 70%  0
+Error relativo de la estimacion entre el 70% y el 85%  0
+Error relativo de la estimacion entre el 85% y el 100%  0
+ 
+Dataset 8  ejecutado correctamente
+
+ 
+Inicio de la ejecucion del dataset 9
+Error relativo de la estimacion menor del 1%:  13
+Error relativo de la estimacion entre el 1% y el 5%:  44
+Error relativo de la estimacion entre el 5% y el 10%:  29
+Error relativo de la estimacion entre el 10% y el 15%  11
+Error relativo de la estimacion entre el 15% y el 25%  3
+Error relativo de la estimacion entre el 25% y el 40%  0
+Error relativo de la estimacion entre el 40% y el 55%  0
+Error relativo de la estimacion entre el 55% y el 70%  0
+Error relativo de la estimacion entre el 70% y el 85%  0
+Error relativo de la estimacion entre el 85% y el 100%  0
+ 
+Dataset 9  ejecutado correctamente
+
+Tiempo total de ejecucion del script:  24  minutos y  9  segundos
